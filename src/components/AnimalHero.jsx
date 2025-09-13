@@ -1,4 +1,4 @@
-import "../assets/css/animalHero.css";
+import "../assets/css/animalhero.css";
 
 const AnimalHero = () => {
   return (
