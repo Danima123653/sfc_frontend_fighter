@@ -1,0 +1,40 @@
+ body {
+            background: #ffffff;
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+        .vet-profile-card {
+            background: #fff;
+            border-radius: 16px;
+            box-shadow: 0 4px 24px #0001;
+            padding: 2rem;
+            margin: 40px auto 24px auto;
+            max-width: 700px;
+        }
+        .vet-img {
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 50%;
+            border: 4px solid #ffb347;
+            margin-bottom: 1rem;
+        }
+        .section-title {
+            color: #b85c38;
+            font-weight: bold;
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
+        .time-slot-card {
+            background: #fffbea;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px #ffb34722;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1rem;
+        }
+        .case-study-card {
+            background: #f89cb9;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px #4ecdc422;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1rem;
+        }

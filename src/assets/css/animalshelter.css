@@ -1,0 +1,49 @@
+ body {
+            background: #f5e1e1;
+            font-family: 'Segoe UI', Arial, sans-serif;
+        }
+    .main-title {
+            color: #232526;
+            font-weight: bold;
+            margin-top: 32px;
+            margin-bottom: 32px;
+            text-align: center;
+        }
+     .nav-pills .nav-link.active {
+            background-color: #ffb347;
+            color: #fff;
+        }
+     .nav-pills .nav-link {
+            color: #b85c38;
+            font-weight: 600;
+        }
+    .section-title {
+            color: #b85c38;
+            font-weight: bold;
+            margin-top: 1.5rem;
+            margin-bottom: 1rem;
+        
+        }
+        .pet-card {
+            background: #fffbea;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px #ffb34722;
+            padding: 1rem;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        .pet-img {
+            width: 100%;
+            max-width: 180px;
+            height: 140px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-bottom: 0.7rem;
+        }
+        .filter-box {
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px #4ecdc422;
+            padding: 1rem 1.5rem;
+            margin-bottom: 1.5rem;
+        }

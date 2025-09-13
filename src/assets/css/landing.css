@@ -1,0 +1,22 @@
+.pop {
+  background-image: url("../../assets/images/landing_back.jpg");
+  font-family: "Segoe UI", Arial, sans-serif;
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.LandingBox {
+  background: rgba(255, 255, 255, 0.96);
+  border-radius: 22px;
+  box-shadow: 0 8px 32px rgba(255, 180, 0, 0.18), 0 2px 8px #ffb34733;
+  max-width: 420px;
+  margin: 60px auto 0 auto;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: fadeIn 1s;
+  border: 2px solid #ffe066;
+}

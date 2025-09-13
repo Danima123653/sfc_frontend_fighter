@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Wet/Dry Dog Food",
+    "description": "Healthy and nutritious dog food.",
+    "image": "assets/images/Df1.jpg",
+    "price": "$29"
+  },
+  {
+    "name": "Wet/Dry Dog Food",
+    "description": "Healthy and nutritious dog food.",
+    "image": "assets/images/Df2.jpg",
+    "price": "$29"
+  },
+  {
+    "name": "Wet/Dry Dog Food",
+    "description": "Healthy and nutritious dog food.",
+    "image": "assets/images/Df3.png",
+    "price": "$29"
+  },
+  {
+    "name": "Wet/Dry Dog Food",
+    "description": "Healthy and nutritious dog food.",
+    "image": "assets/images/Df4.png",
+    "price": "$29"
+  },
+  {
+    "name": "Wet/Dry Dog Food",
+    "description": "Healthy and nutritious dog food.",
+    "image": "assets/images/Df5.jpg",
+    "price": "$29"
+  },
+  {
+    "name": "Wet/Dry Dog Food",
+    "description": "Healthy and nutritious dog food.",
+    "image": "assets/images/Df6.jpg",
+    "price": "$29"
+  }
+]

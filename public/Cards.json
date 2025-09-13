@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "name": "Dog Sofa | Comfy sofa",
+      "description": "A cozy sofa for your furry friend to relax on. Good Quality Sofa",
+      "image": "assets/images/Dog Sofa.avif",
+      "price": "$39",
+      "rating": "5.0"
+    },
+    {
+      "name": "VETRESKA Blooming Cactus Cat Perch",
+      "description": "A fun toy to keep your cat entertained.",
+      "image": "assets/images/Cat Toy.jpg",
+      "price": "$19",
+      "rating": "4.5"
+    },
+    {
+      "name": "SafeBuds Pro - Smart GPS Pet Collar",
+      "description": "A smart collar GPS tracking to keep your pet safe.",
+      "image": "assets/images/Dog Gps.avif",
+      "price": "$39",
+      "rating": "4.0"
+    },
+    {
+      "name": "VETRESKA Tangerine Cat Scratching Ball",
+      "description": "A sturdy scratching ball to keep your cat's claws healthy.",
+      "image": "assets/images/scratching ball.avif",
+      "price": "$29",
+      "rating": "5.0"
+    },
+    {
+      "name": "Pet Dog Hoodies | Best Selling Hoodie",
+      "description": "A stylish hoodie to keep your dog warm and fashionable. High Quality Hoodie",
+      "image": "assets/images/doghood.webp",
+      "price": "$59",
+      "rating": "4.0"
+    },
+    {
+      "name": "Petbuds EchoBell GPS Tracker | Best GPS Tracker Available",
+      "description": "A reliable GPS tracker to monitor your pet's location.",
+      "image": "assets/images/gps.webp",
+      "price": "$49",
+      "rating": "5.0"
+    }
+  ]
+}

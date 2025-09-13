@@ -1,0 +1,58 @@
+.nav{
+    margin-right: auto;
+    margin-left: auto;
+    gap: 1rem;
+    padding: 7px;
+}
+
+.navbar .nav-link {
+    position: relative;
+    transition: color 0.2s;
+}
+
+.navbar .nav-link::after {
+    content: '';
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    height: 2px;
+    background: #ffe066;
+    border-radius: 2px;
+    transform: scaleX(0);
+    transition: transform 0.2s;
+}
+
+.navbar .nav-link:hover {
+    color: #ffe066 !important;
+}
+
+.navbar .nav-link:hover::after {
+    transform: scaleX(1);
+}
+.CARD{
+    box-shadow: 0 4px 8px 0 hsl(0, 0%, 0%, 0.2);
+    transition: transform 0.3s ease;
+    width: 22rem;
+}
+.CARD:hover{
+    transform: scale(1.02);
+    box-shadow: 0 8px 16px 0 hsl(0, 0%, 0%, 0.3);
+}
+.card-img{
+    border-radius: 20px;
+    scale: 0.95;
+}
+.PC-Card{
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 hsl(0, 0%, 0%, 0.2);
+    transition: transform 0.3s ease;
+}
+.gtstd{
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: -550px;
+    top: -60px;
+    border-radius: 20px;
+    background-color: #ffe066;
+    border: 2px #ffe066 solid;
+}

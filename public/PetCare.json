@@ -1,0 +1,42 @@
+{
+  "Labrador": {
+    "feeding": "Balanced meals with protein, rice, and veggies. Avoid overfeeding.",
+    "health": "Regular exercise to prevent obesity. Check ears for infections.",
+    "training": "Responds well to positive reinforcement. Be consistent."
+  },
+  "German Shepherd": {
+    "feeding": "High-protein diet with meat and joint supplements.",
+    "health": "Needs mental stimulation and daily activity.",
+    "training": "Firm but gentle commands. Reward good behavior."
+  },
+  "Golden Retriever": {
+    "feeding": "Fish oil for coat, grains in moderation.",
+    "health": "Needs companionship and regular exercise.",
+    "training": "Use treats and praise for motivation."
+  },
+  "Pug": {
+    "feeding": "Small meals, avoid fatty foods.",
+    "health": "Keep cool, avoid heat. Watch for breathing issues.",
+    "training": "Short, fun sessions. Be patient and consistent."
+  },
+  "Persian": {
+    "feeding": "Wet food for hydration, hairball-control kibble.",
+    "health": "Brush daily to prevent matting. Clean eyes regularly.",
+    "training": "Gentle handling, reward calm behavior."
+  },
+  "Siamese": {
+    "feeding": "Protein-rich diet. Fish and chicken are good.",
+    "health": "Needs social interaction. Play daily.",
+    "training": "Interactive toys work best. Use clicker training."
+  },
+  "Maine Coon": {
+    "feeding": "Large portions, taurine-rich food.",
+    "health": "Brush weekly. Watch for heart issues.",
+    "training": "Likes puzzle toys. Use treats for training."
+  },
+  "Bengal": {
+    "feeding": "Raw or high-protein dry food.",
+    "health": "Needs lots of play. Provide climbing space.",
+    "training": "Teach tricks with treats. Keep sessions short."
+  }
+}

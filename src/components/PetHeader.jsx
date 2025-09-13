@@ -1,0 +1,47 @@
+import Furever from "../assets/images/Furever_Care-removebg.png";
+import "../assets/css/petheader.css";
+import { Link, useNavigate } from "react-router-dom";
+
+const PetHeader = () => {
+  const navigate = useNavigate();
+
+  const userName = localStorage.getItem("userName") || "User";
+
+  const handleSwitchUser = () => {
+    navigate("/");
+  };
+
+  return (
+    <header className="pet-header">
+      <div className="pet-header__logo-title">
+        <img
+          src={Furever}
+          alt="Furever Care Logo"
+          className="pet-header__logo"
+        />
+        <span className="pet-header__title">Furever Care</span>
+      </div>
+      <nav className="pet-header__nav">
+        <Link to="/petowner">Home</Link>
+        <a href="#">Pet Care</a>
+        <a href="#">Pet Products</a>
+        <a href="#">Emergency</a>
+        <a href="#">Contact</a>
+        <a href="#">About Us</a>
+      </nav>
+      <div className="pet-header__user">
+        <span>
+          Welcome, <span className="pet-header__username">{userName}</span>!
+        </span>
+        <button className="pet-header__switch-btn" onClick={handleSwitchUser}>
+          <span role="img" aria-label="switch user">
+            👥
+          </span>{" "}
+          Switch User
+        </button>
+      </div>
+    </header>
+  );
+};
+
+export default PetHeader;
