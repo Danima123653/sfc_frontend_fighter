@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import "../assets/css/petowner.css";
+import "../assets/css/petOwner.css";
 import { Link } from "react-router-dom";
 import HomeImage from "../assets/images/Home-img.avif";
 
